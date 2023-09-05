@@ -1,16 +1,15 @@
-### Hi there 👋
+# 💫 About Me:
+ Hi there! 👋<br><br>I'm Mert, a fourth-year university student with a passion for web development and a strong desire to create meaningful and innovative digital experiences. <br><br>🌐 Web Developer Extraordinaire<br><br>I've always been fascinated by the limitless possibilities of the web, and I've spent the past few years honing my skills in various web technologies. From crafting elegant front-end interfaces using HTML, CSS, and JavaScript to building robust back-end systems with Node.js and Python, I'm on a journey to become a well-rounded web developer.<br><br>💡 What Drives Me<br><br>I believe in the power of technology to transform lives and solve real-world problems. My projects often reflect this belief, as I strive to create web applications that are not only visually appealing but also functionally exceptional. I'm particularly interested in [mention any specific areas of interest or specialization, e.g., responsive design, accessibility, UX/UI, etc.].<br><br>🚀 What You'll Find in My Repositories<br><br>In my GitHub repositories, you'll find a collection of my coding adventures, including personal projects, open-source contributions, and assignments from my university courses. Feel free to explore and provide feedback; collaboration is always welcome!<br><br>📚 Lifelong Learner<br><br>I'm a firm believer in continuous learning, and the tech world evolves rapidly. When I'm not coding or studying, you can find me devouring tech blogs, online courses, and attending hackathons to stay updated with the latest trends and technologies.<br><br>🌟 Let's Connect!<br><br>I'm always excited to connect with fellow developers, collaborate on interesting projects, and learn from each other. Don't hesitate to reach out if you share similar interests or have any questions. Let's build amazing things together!<br><br>Thanks for stopping by, and I look forward to connecting with you and exploring the endless possibilities of the web together!<br>
 
-<!--
-**mertustun/mertustun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mertusstunn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mertusstunn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mertusstunn) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mertustun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mertustun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertustun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
